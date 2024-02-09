@@ -105,6 +105,7 @@ button:focus-visible {
 .student{
   border:1px solid;
   border-radius: 4px;
+  margin: 10px;
 }
 
 
