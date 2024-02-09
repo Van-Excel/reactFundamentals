@@ -3,6 +3,7 @@ import Footer from "./Footer"
 import Card from "./Card"
 import Students from "./Students"
 import List from "./List"
+import Counter from "./Counter"
 
 function App() {
   
@@ -15,6 +16,8 @@ function App() {
      <Students firstName ='Vanexcel' age ={45} isStudent ={true} />
 
      <List />
+
+     <Counter />
 
      <Footer />
     </>

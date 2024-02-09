@@ -68,3 +68,5 @@ export default function List() {
 //proptypes and default proptypes
 //mutation
 //objects
+//array & object destructuring
+//spread operator
