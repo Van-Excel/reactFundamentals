@@ -3,7 +3,7 @@
 
  function SimpleList() {
   const fruits = ['apple', 'orange', 'banana', 'ginger']
-  const listItems = fruits.map((fruit) => {<li>{fruit}</li>})
+  const listItems = fruits.map(fruit => <li key={fruit}>{fruit}</li>)
 
   return (
     <div><ul>{listItems}</ul></div>
