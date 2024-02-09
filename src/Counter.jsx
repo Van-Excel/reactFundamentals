@@ -3,6 +3,9 @@
 // include (useState, useEffect, useContext, useReducer, useCallback)
 
 
+//useState- a react hook that allows the creation of a stateful variable and a
+//          setter function to update its value in the virtual DOM.
+
 
 
 
