@@ -1,6 +1,6 @@
 
 // rendering a list
-export default function List() {
+ function SimpleList() {
 const fruits = ['apple', 'orange', 'banana', 'ginger']
 
 const listItems = fruits.map((fruit) => {<li>{fruit}</li>})
@@ -8,7 +8,7 @@ const listItems = fruits.map((fruit) => {<li>{fruit}</li>})
   return (
     <>
     
-    <SimpleList />
+    {listItems}
     </>
    
   )
