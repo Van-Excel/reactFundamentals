@@ -1,3 +1,11 @@
+// React hooks- special functions that allow functional components to use
+//              react features without writing class components.
+// include (useState, useEffect, useContext, useReducer, useCallback)
+
+
+
+
+
 import   {useState} from "react";
 
 export default function Counter() {
