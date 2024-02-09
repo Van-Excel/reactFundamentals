@@ -15,7 +15,7 @@ function App() {
      <Students firstName ='Vanexcel' age ={45} isStudent ={true} />
 
      <List />
-     
+
      <Footer />
     </>
   )
