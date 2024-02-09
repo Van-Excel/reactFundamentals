@@ -4,6 +4,7 @@ import Card from "./Card"
 import Students from "./Students"
 import List from "./List"
 import Counter from "./Counter"
+import Forms from "./Forms"
 
 function App() {
   
@@ -18,6 +19,7 @@ function App() {
      <List />
 
      <Counter />
+     <Forms />
 
      <Footer />
     </>
